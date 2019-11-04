@@ -5,7 +5,7 @@ body{
 
 header{
     color: white;
-    align: center;
+    align-self: center;
 
 }
 div{
@@ -21,7 +21,7 @@ section{
  background: white;
  border-radius: 10px;
  padding: 15px;
- width: 500px;
+ width: 550px;
  margin: auto;
  box-shadow: 5px 5px 10px rgba(14, 13, 13, 0.329)
 }
@@ -31,3 +31,15 @@ color: white;
 font-style: italic;
 text-align: center;
 }
+
+.bt {
+    border:1px solid #25692A;
+    border-radius:4px;
+    display:inline-block;
+    cursor:pointer;
+    font-family:Verdana;
+    font-weight:bold;
+    font-size:13px;
+    padding:6px 10px;
+    text-decoration:none;
+    }
