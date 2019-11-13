@@ -1,12 +1,10 @@
-# PTG
+# Where is my PET
 
-_primeiro_projeto_PTG_
-
-Projeto desenvolvido por Luiz C. Borba, Where is my Pet.
+_Projeto desenvolvido por Luiz C. Borba, Where is my Pet._
 
 - Html + Js + Css. (trabalhando em um servidor Node.)
 
-  Algoritmo "DISTANCIA PET"
+- Algoritmo
 
 Const
 dist_max = 20
